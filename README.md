@@ -1,6 +1,8 @@
 # professional-portfolio
 UCB-VIRT-FSF-PT-07-2024-U-LOLC homework assignment #2
 
+![Link to deployed application](https://dawsofd.github.io/professional-portfolio)
+
 ## User Story
 
 ```
